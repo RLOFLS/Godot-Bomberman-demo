@@ -1,6 +1,7 @@
 # Godot-Bomberman-demo
 
-- Control the player to place bombs with the space bar
-- Left click to move to the specified location
+- ↑↓←→ Control character movement
+- Control character to place bomb with spacebar
+- Left mouse click to pathfind to clicked location
 
 ![demo](./bombdemo.gif)
